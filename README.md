@@ -2,7 +2,7 @@
 - 👀 I’m interested in Women
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me saixk#0 <discord>
+- 📫 How to reach me saixk#0 ||discord||
 
 <!---
 Scia0/Scia0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
